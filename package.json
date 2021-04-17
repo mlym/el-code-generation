@@ -1,0 +1,22 @@
+{
+  "name": "el-code-generation",
+  "version": "0.0.1",
+  "description": "基于vue-admin-beautiful-pro的代码生成器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlym/el-code-generation.git"
+  },
+  "keywords": [
+    "generation"
+  ],
+  "author": "ryan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mlym/el-code-generation/issues"
+  },
+  "homepage": "https://github.com/mlym/el-code-generation#readme"
+}
